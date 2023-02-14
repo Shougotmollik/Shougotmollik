@@ -3,10 +3,15 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shougot_Mollik 🤵🏻.</h1>
-<h3 align="center">I am a tech enthusiast 👩‍💻from Bangladesh 🇧🇩.</h3><br>
+<h2 align="center">I am a tech enthusiast 👩‍💻from Bangladesh 🇧🇩.</h2><br>
 
 
-<br>🔭 I’m currently working on Python project🖨.<br>🌱 I’m currently learning Python advance topic⏳.<br>💬 Ask me about  👉 Related with my Skills🤓<br>📫 How to reach me   👉 Try my social Contact🛫<br>👨‍💻 All of my projects are available at 👉GitHub Project Section 💽<br>⚡ Fun fact 🤭I think I am 🤐
+<h4 align="center">🔭 I’m currently working on Python project🖨.</h4>
+<h4 align="center">🌱 I’m currently learning Python advance topic⏳.</h4>
+<h4 align="center">💬 Ask me about  👉 Related with my Skills🤓.</h4>
+<h4 align="center">📫 How to reach me   👉 Try my social Contact🛫</h4>
+<h4 align="center">👨‍💻 All of my projects are available at 👉GitHub Project Section 💽</h4>
+<h4 align="center">⚡ Fun fact 🤭I think I am FuNnY 🤐</h4>
 
 <img align="center" alt="Coding" width="800" src="https://www.lambdatest.com/resources/images/news24.gif">
 
