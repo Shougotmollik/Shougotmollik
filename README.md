@@ -36,6 +36,10 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shougotmollik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shougotmollik" /></a></p><br><br>
