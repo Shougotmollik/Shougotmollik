@@ -35,3 +35,7 @@
 [![](https://visitcount.itsvg.in/api?id=Shougotmollik&icon=0&color=9)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/shougotmollik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shougotmollik" /></a></p><br><br>
