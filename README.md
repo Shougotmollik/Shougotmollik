@@ -7,7 +7,7 @@
 
 
 <h4 align="center">🔭 I’m currently working on E-com project🖨.</h4>
-<h4 align="center">🌱 I’m currently learning Mern Stack⏳.</h4>
+<h4 align="center">🌱 I’m currently learning Mobile App Development⏳.</h4>
 <h4 align="center">💬 Ask me about  👉 Related with my Skills🤓.</h4>
 <h4 align="center">📫 How to reach me   👉 Try my social Contact🛫</h4>
 <h4 align="center">👨‍💻 All of my projects are available at 👉GitHub Project Section 💽</h4>
