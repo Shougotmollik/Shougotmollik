@@ -11,7 +11,7 @@
 <h4 align="center">💬 Ask me about  👉 Related with my Skills🤓.</h4>
 <h4 align="center">📫 How to reach me   👉 Try my social Contact🛫</h4>
 <h4 align="center">👨‍💻 All of my projects are available at 👉GitHub Project Section 💽</h4>
-<h4 align="center">⚡ Fun fact 🤭I think I am FuNnY 🤐</h4>
+<h4 align="center">⚡ Fun fact 🤭I Don't know what going on my LiFe🤐</h4>
 
 <img align="center" alt="Coding" width="800" src="https://www.lambdatest.com/resources/images/news24.gif">
 
