@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Shougot_Mollik 🤵🏻.</h1>
-<h2 align="center">I am a tech enthusiast 👩‍💻from Bangladesh 🇧🇩.</h2><br>
+<h2 align="center">I am a tech enthusiast 👩‍💻from Bangladesh.</h2><br>
 
 
 <h4 align="center">🔭 I’m currently working on E-com project🖨.</h4>
